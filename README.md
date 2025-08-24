@@ -17,7 +17,7 @@ This project requires Python and Conda. All dependencies are managed via the `en
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Distraction_Analysis
+    cd <project_directory>
     ```
 3.  **Create the Conda environment from the `environment.yml` file:**
     ```bash
