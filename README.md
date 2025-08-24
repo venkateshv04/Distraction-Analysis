@@ -11,7 +11,7 @@ The system leverages a combination of behavioral data, machine learning, and rea
 This project requires Python and Conda. All dependencies are managed via the `environment.yml` file.
 
 ## 💡 Lighting Requirements
-The accuracy of this project is highly dependent on lighting conditions. For best results, ensure your face is well-lit and there are no strong shadows or glares on your face. Poor lighting can lead to inaccurate facial landmark detection, which will affect the system's ability to correctly analyze gaze, drowsiness, and emotions.
+The accuracy of this project is highly dependent on lighting conditions. For best results, ensure your face is well-lit and there are no strong shadows or glares on your face. Poor lighting can lead to inaccurate facial landmark detection, which will affect the system's ability to correctly analyze gaze, orientation and drowsiness.
 
 ## 💻 Hardware Specifications
 
